@@ -1,0 +1,26 @@
+#c1
+{
+    background-color: aqua;
+    width: auto;
+    height: 200px;
+}
+#c2{
+
+    background-color: chocolate;
+    width: auto;
+    height: 200px;
+}
+#c3
+{
+    background-color: fuchsia;
+    width: auto;
+    height: 200px;
+}
+.b1
+{
+    background-image: url(download.jpeg);
+    width: 200px;
+    height: 100px;
+    float: right;
+    margin: 40px;
+}

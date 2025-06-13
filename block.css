@@ -1,0 +1,48 @@
+#q1
+{
+    background-color: mediumvioletred;
+    width: 350px;
+    height: 250px;
+    float: left;
+    margin: 40px;
+}
+#q2
+{
+    background-color: darkmagenta;
+    width: 800px;
+    height: 250px;
+    margin: 40px;
+    float: right;
+}
+#q3
+{
+    background-color: brown;
+    width:350px;
+    height: 250px;
+    float: left;
+    margin: 40px;
+}
+#q4
+{
+    background-color: coral;
+    width: 350px;
+    height: 250px;
+    float: left;
+    margin: 40px;
+}
+#q5
+{
+    background-color: cadetblue;
+    width: 350px;
+    height: 250px;
+    float: right;
+    margin: 40px;
+}
+#i7
+{
+    background-image: url(download.jpeg);
+    width: 400px;
+    height: 200px;
+    margin: 20px;
+    float:unset;
+}
